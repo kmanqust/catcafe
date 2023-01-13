@@ -1,0 +1,45 @@
+<!doctype html>
+{% load static %}
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Rent your visit</title>
+  <link rel="stylesheet" href="{% static 'css/rentstyles.css'%}">
+</head>
+ 
+<body>
+  <div class="up">
+    <div class="renttext"><p class="text3">Вы можете забронировать столик онлайн</p></div>
+    <div class="txtline">
+      <div class="txtline1"><p class="text4">Номер телефона</p></div>
+      <div class="txtline2"><p class="text4">Дата</p></div>
+      <div class="txtline3"><p class="text4">Время</p></div>
+      <div class="txtline4"><p class="text4">Количество персон</p></div>
+    </div>
+    <div class="puttext">
+      <form>
+        <p class="text4"><input class="putline1" type="text" name="userPhone" placeholder="+79249691489"></p>
+        <p class="text4"><input class="putline2" type="text" name="userDate" placeholder="12.01"></p>
+        <p class="text4"><input list = "timelist" class="putline3" type="text" name="userTime" placeholder="14:00 - 16:00"></p>
+        <p class="text4"><input class="putline4" type="text" name="userValue" placeholder="1"></p>
+        <p class="text4"><button class="putline5" type="submit"><p class="text5">Подтвердить</p></button></p>
+      </form>
+      <datalist id="timelist">
+            <option value="14:00 - 16:00"/>
+            <option value="16:00 - 18:00"/>
+            <option value="18:00 - 20:00"/>
+        </datalist>
+    </div>
+  </div>
+  <div class="buttons">
+    <a href="http://127.0.0.1:8000/" class="Catcafebutton">CATCAFE</a>
+    <a href="http://127.0.0.1:8000/" class="Homebutton">Home</a>
+    <a href="http://127.0.0.1:8000/menu" class="menubutton">Menu</a>
+    <a href="http://127.0.0.1:8000/catmenu" class="Catmenu">Cat menu</a>
+    <a href="http://127.0.0.1:8000/rent" class="Rentbutton">Rent</a>
+  </div>
+  <div class="basement">
+    <div class = "textblock1"><p class="text2">© CATCAFE 2022  •   Ленина 40, Томск, Томская область   •   Тел: 71494563   •   Сайт создан для милых котиков!</p></div>
+  </div>
+</body>
+</html>

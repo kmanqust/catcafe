@@ -1,0 +1,286 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+@import url('https://allfont.ru/allfont.css?fonts=sorts-mill-goudy');
+html, body{
+	width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.text5{
+white-space: normal;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 200%;
+line-height: 150%;
+display: flex;
+align-items: center;
+text-align: center;
+justify-content: center;
+color: #FFFFFF;
+}
+
+input[type="text"] {
+  font-family: 'Montserrat'; /* 1 */
+  font-size: 80%;
+  line-height: inherit;
+  align-items: center;
+  text-align: center;
+  color: (255,255,255,1) /* 1 */
+  margin: 0; /* 2 */
+}
+.putline1{
+	position: absolute;
+	width: 13.5%;
+	height: 20%;
+	left: 7%;
+	top: 5%;
+}
+.putline2{
+	position: absolute;
+	width: 10.5%;
+	height: 20%;
+	left: 32.5%;
+	top: 5%;
+}
+.putline3{
+	position: absolute;
+	width: 10.5%;
+	height: 20%;
+	left: 56.6%;
+	top: 5%;
+}
+.putline4{
+	position: absolute;
+	width: 10.5%;
+	height: 20%;
+	left: 80.6%;
+	top: 5%;
+}
+.putline5{
+	position: relative;
+	width: 17%;
+	height: 20%;
+	left: 0.6%;
+	top: 5%;
+	display:block;
+  	border-radius: 15%;
+  	border: 1px solid red;
+  	background-color: #170000;
+  	cursor: pointer;
+}
+.puttext{
+	position: absolute;
+	width: 100%;
+	height: 30%;
+	top: 45%;
+}
+.text4{
+white-space: normal;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 150%;
+line-height: 150%;
+display: flex;
+align-items: center;
+text-align: center;
+justify-content: center;
+color: #FFFFFF;
+}
+.txtline{
+	position: absolute;
+	width: 100%;
+	height: 30%;
+	top: 30%;
+}
+.txtline1{
+	position: absolute;
+	width: 20%;
+	height: 100%;
+	left: 4%;
+}
+.txtline2{
+	position: absolute;
+	width: 20%;
+	height: 100%;
+	left: 28%;
+}
+.txtline3{
+	position: absolute;
+	width: 20%;
+	height: 100%;
+	left: 52%;
+}
+.txtline4{
+	position: absolute;
+	width: 20%;
+	height: 100%;
+	left: 76%;
+}
+
+.renttext{
+	position: absolute;
+	width: 100%;
+	height: 30%;
+	top: 10%;
+}
+
+.text3{
+white-space: normal;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 180%;
+line-height: 150%;
+display: flex;
+align-items: center;
+text-align: center;
+justify-content: center;
+color: #FFFFFF;
+}
+
+.buttons{
+	position: absolute;
+	width: 100%;
+	height: 10%;
+	background-color: black;
+}
+
+.Catcafebutton{
+position: absolute;
+width: 329px;
+height: 110px;
+left: 0px;
+top: 0px;
+background: (0,0,0,0);
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 59px;
+display: flex;
+align-items: center;
+justify-content: center;
+text-decoration-line: none;
+font-variant: small-caps;
+color: #FFFFFF;
+
+}
+
+.Homebutton{
+position: absolute;
+width: 329px;
+height: 110px;
+left: 20%;
+top: 4px;
+background: (0,0,0,0);
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+display: flex;
+align-items: center;
+justify-content: center;
+text-decoration-line: none;
+
+color: #FFFFFF
+}
+
+.Catmenu{
+position: absolute;
+width: 329px;
+height: 110px;
+left: 60%;
+top: 4px;
+background: (0,0,0,0);
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+display: flex;
+align-items: center;
+justify-content: center;
+text-decoration-line: none;
+color: #FFFFFF
+}
+
+.Rentbutton{
+position: absolute;
+width: 280px;
+height: 110px;
+left: 80%;
+top: 4px;
+background: (0,0,0,0);
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+display: flex;
+align-items: center;
+justify-content: center;
+text-decoration-line: underline;
+color: #FFFFFF
+
+}
+
+.menubutton{
+	position: absolute;
+width: 329px;
+height: 110px;
+left: 40%;
+top: 4px;
+background: (0,0,0,0);
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+display: flex;
+align-items: center;
+justify-content: center;
+text-decoration-line: none;
+color: #FFFFFF;
+}
+
+.up{
+	position: absolute;
+	width: 100%;
+	height: 70%;
+	top: 10%;
+	background-color: black;
+}
+
+.basement{
+position: absolute;
+background-color: #170000;
+width: 100%;
+height: 20%;
+left: 0%;
+top: 80%;
+}
+.textblock1{
+position: absolute;
+width: 60%;
+height:10%;
+left: 22%;
+top: 25%;
+background: #170000;;
+}
+.text2{
+white-space: normal;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 90%;
+line-height: 100%;
+display: flex;
+align-items: center;
+text-align: center;
+background: #170000;;
+color: #FFFFFF;
+}

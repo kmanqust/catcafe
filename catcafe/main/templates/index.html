@@ -1,0 +1,45 @@
+<!doctype html>
+{% load static %}
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Catcafe</title>
+  <link rel="stylesheet" href="{% static 'css/style.css'%}" type="text/css">
+  <script src="{% static 'js/script.js' %}"></script>
+</head>
+<body>
+  <div class="rect1">
+    <div class="buttons">
+      <a href="http://127.0.0.1:8000/" class="Catcafebutton">CATCAFE</a>
+      <a href="http://127.0.0.1:8000/" class="Homebutton">Home</a>
+      <a href="http://127.0.0.1:8000/menu" class="menubutton">Menu</a>
+      <a href="http://127.0.0.1:8000/catmenu" class="Catmenu">Cat menu</a>
+      <a href="http://127.0.0.1:8000/rent" class="Rentbutton">Rent</a>
+    </div>
+
+    <div class="rect2"></div>
+    <div class="Welcome">WELCOME</div>
+    <div class="Thecatcafe">THE CATCAFE</div>
+    <img class="catprintleft" src="{% static 'img/12.png'%}">
+    <img class="catprintright" src="{% static 'img/12.png'%}">
+    <img class="number" src="{% static 'img/Group 17.png'%}">
+    <a onclick="alertedque();" class="number1"></a>
+    <img class="question" src="{% static 'img/Group 18.png'%}">
+    <div id="infoque" class="infoque">
+      <p class="textque">Окно, которое всплывает когда пользователь нажимает на флажек телефона.</p>
+    </div>
+    <a onclick="alertednumber();"  class="question1"></a>
+    <div id="infonumber" class="infonumber">
+      <p class="textnumber">Окно, которое всплывает когда пользователь нажимает на флажек вопросика.</p>
+    </div>
+  </div>
+  <div class="rect3">
+    <div class="aboutus">About Us</div>
+    <img class = "catscreen" src="{% static 'img/15.jpg'%}">
+    <div class="textblock"><p class="text1">Благотворительный проект: котокафе «CatCafe» - это уютное и просторное тайм-кафе в котором живут бездомные коты и кошки в ожидании своих людей:)</p></div>
+  </div>
+  <div class="group14">
+    <div class = "textblock1"><p class="text2">© CATCAFE 2022  •   Ленина 40, Томск, Томская область   •   Тел: 71494563   •   Сайт создан для милых котиков!</p></div>
+  </div>
+</body>
+</html>

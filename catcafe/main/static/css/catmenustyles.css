@@ -1,0 +1,462 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+@import url('https://allfont.ru/allfont.css?fonts=sorts-mill-goudy');
+html, body{
+	width: 100%;
+    height: 200%;
+    margin: 0;
+    padding: 0;
+}
+.namesline41{
+	position: absolute;
+	width: 28%;
+	height: 100%;
+	left: 5%;
+}
+.namesline42{
+	position: absolute;
+	width: 18%;
+	height: 100%;
+	left: 40.4%;
+}
+
+.namesline43{
+	position: absolute;
+	width: 28%;
+	height: 100%;
+	left: 67%;
+}
+.image41{
+	position: absolute;
+	width: auto;
+	height: 70%;
+	left: 5%;
+	top: 10%;
+	border: 4px solid white;
+}
+
+.image42{
+	position: absolute;
+	width: auto;
+	height: 70%;
+	left: 40.5%;
+	top: 10%;
+	border: 4px solid white;
+}
+.image43{
+	position: absolute;
+	width: auto;
+	height: 70%;
+	left:67%;
+	top: 10%;
+	border: 4px solid white;
+}
+.namesline31{
+	position: absolute;
+	width: 28%;
+	height: 100%;
+	left: 5%;
+}
+.namesline32{
+	position: absolute;
+	width: 18%;
+	height: 100%;
+	left: 40.4%;
+}
+
+.namesline33{
+	position: absolute;
+	width: 28%;
+	height: 100%;
+	left: 67%;
+}
+.image31{
+	position: absolute;
+	width: auto;
+	height: 70%;
+	left: 5%;
+	top: 10%;
+	border: 4px solid white;
+}
+
+.image32{
+	position: absolute;
+	width: auto;
+	height: 70%;
+	left: 40.5%;
+	top: 10%;
+	border: 4px solid white;
+}
+.image33{
+	position: absolute;
+	width: auto;
+	height: 70%;
+	left:67%;
+	top: 10%;
+	border: 4px solid white;
+}
+.namesline21{
+	position: absolute;
+	width: 28%;
+	height: 100%;
+	left: 5%;
+}
+.namesline22{
+	position: absolute;
+	width: 18%;
+	height: 100%;
+	left: 41.7%;
+}
+
+.namesline23{
+	position: absolute;
+	width: 28%;
+	height: 100%;
+	left: 65%;
+}
+.image21{
+	position: absolute;
+	width: auto;
+	height: 70%;
+	left: 5%;
+	top: 10%;
+	border: 4px solid white;
+}
+
+.image22{
+	position: absolute;
+	width: auto;
+	height: 70%;
+	left: 44.5%;
+	top: 10%;
+	border: 4px solid white;
+}
+.image23{
+	position: absolute;
+	width: auto;
+	height: 70%;
+	left:67%;
+	top: 10%;
+	border: 4px solid white;
+}
+.image11{
+	position: absolute;
+	width: auto;
+	height: 70%;
+	left: 5%;
+	top: 10%;
+	border: 4px solid white;
+}
+
+.image12{
+	position: absolute;
+	width: auto;
+	height: 70%;
+	left: 42%;
+	top: 10%;
+	border: 4px solid white;
+}
+.image13{
+	position: absolute;
+	width: auto;
+	height: 70%;
+	left:65%;
+	top: 10%;
+	border: 4px solid white;
+}
+.namesline11{
+	position: absolute;
+	width: 28%;
+	height: 100%;
+	left: 5%;
+}
+.namesline12{
+	position: absolute;
+	width: 18%;
+	height: 100%;
+	left: 39.2%;
+}
+
+.namesline13{
+	position: absolute;
+	width: 28%;
+	height: 100%;
+	left: 65%;
+}
+.namesline1{
+	position: absolute;
+	width: 100%;
+	height: 20%;
+	top: 80%;
+}
+.text4{
+white-space: normal;
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 400;
+font-size: 150%;
+line-height: 150%;
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+color: #FFFFFF;
+}
+.text3{
+white-space: normal;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 150%;
+line-height: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+color: #FFFFFF;
+}
+.namesline01{
+	position: absolute;
+	width: 28%;
+	height: 100%;
+	left: 5%;
+}
+.namesline02{
+	position: absolute;
+	width: 18%;
+	height: 100%;
+	left: 40%;
+}
+
+.namesline03{
+	position: absolute;
+	width: 28%;
+	height: 100%;
+	left: 65%;
+}
+.namesline0{
+	position: absolute;
+	width: 100%;
+	height: 20%;
+	top: 80%;
+}
+.textline{
+	position: absolute;
+	width: 80%;
+	height: 20%;
+	top: 80%;
+	left: 10%;
+	background-color: black;
+}
+
+
+.image01{
+	position: absolute;
+	width: auto;
+	height: 70%;
+	left: 5%;
+	top: 10%;
+	border: 4px solid white;
+}
+
+.image02{
+	position: absolute;
+	width: auto;
+	height: 70%;
+	left: 40%;
+	top: 10%;
+	border: 4px solid white;
+}
+.image03{
+	position: absolute;
+	width: auto;
+	height: 70%;
+	left:65%;
+	top: 10%;
+	border: 4px solid white;
+}
+
+
+.imagesline{
+	position: absolute;
+	width: 100%;
+	height: 70%;
+	top: 5%;
+	background-color: black;
+}
+
+.catlines0{
+	position: absolute;
+	width: 100%;
+	height: 20%;
+	background-color: black;
+}
+.catlines1{
+	position: absolute;
+	width: 100%;
+	height: 20%;
+	top: 20%;
+	background-color: black;
+}
+.catlines2{
+	position: absolute;
+	width: 100%;
+	height: 20%;
+	top: 40%;
+	background-color: black;
+}
+.catlines3{
+	position: absolute;
+	width: 100%;
+	height: 20%;
+	top: 60%;
+	background-color: black;
+}
+.catlines4{
+	position: absolute;
+	width: 100%;
+	height: 20%;
+	top: 80%;
+	background-color: black;
+}
+.buttons{
+	position: absolute;
+	width: 100%;
+	height: 10%;
+	background-color: black;
+}
+
+.Catcafebutton{
+position: absolute;
+width: 329px;
+height: 110px;
+left: 0px;
+top: 0px;
+background: (0,0,0,0);
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 59px;
+display: flex;
+align-items: center;
+justify-content: center;
+text-decoration-line: none;
+font-variant: small-caps;
+color: #FFFFFF;
+
+}
+
+.Homebutton{
+position: absolute;
+width: 329px;
+height: 110px;
+left: 20%;
+top: 4px;
+background: (0,0,0,0);
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+display: flex;
+align-items: center;
+justify-content: center;
+text-decoration-line: none;
+
+color: #FFFFFF
+}
+
+.Catmenu{
+position: absolute;
+width: 329px;
+height: 110px;
+left: 60%;
+top: 4px;
+background: (0,0,0,0);
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+display: flex;
+align-items: center;
+justify-content: center;
+text-decoration-line: underline;
+color: #FFFFFF
+}
+
+.Rentbutton{
+position: absolute;
+width: 280px;
+height: 110px;
+left: 80%;
+top: 4px;
+background: (0,0,0,0);
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+display: flex;
+align-items: center;
+justify-content: center;
+text-decoration-line: none;
+color: #FFFFFF
+
+}
+
+.menubutton{
+	position: absolute;
+width: 329px;
+height: 110px;
+left: 40%;
+top: 4px;
+background: (0,0,0,0);
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+display: flex;
+align-items: center;
+justify-content: center;
+text-decoration-line: none;
+color: #FFFFFF;
+}
+
+.up{
+	position: absolute;
+	width: 100%;
+	height: 370%;
+	top: 10%;
+	background-color: black;
+}
+
+.basement{
+position: absolute;
+background-color: #170000;
+width: 100%;
+height: 20%;
+left: 0%;
+top: 380%;
+}
+.textblock1{
+position: absolute;
+width: 60%;
+height:10%;
+left: 22%;
+top: 25%;
+background: #170000;;
+}
+.text2{
+white-space: normal;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 90%;
+line-height: 100%;
+display: flex;
+align-items: center;
+text-align: center;
+background: #170000;;
+color: #FFFFFF;
+}
